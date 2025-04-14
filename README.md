@@ -2,6 +2,11 @@
 
 Javascript Expression Language: Powerful context-based expression parser and evaluator
 
+
+### Added esm build configuration.
+
+
+
 ## Quick start
 
 Use it with promises or synchronously:
